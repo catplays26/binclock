@@ -1,3 +1,7 @@
 * {
     font-family: 'Source Code Pro';
 }
+body {
+    background-color: rgb(16, 16, 16);
+    color: rgb(255, 255, 255);
+}
